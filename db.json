@@ -62,5 +62,11 @@
             "price_action": 4,
             "quantity" : 3
       }
+    ],
+    "quiz" : [
+        {
+            "name" : "dev",
+            "score" : 33
+        }
     ]
 }
